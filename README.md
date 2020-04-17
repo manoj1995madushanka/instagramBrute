@@ -3,7 +3,7 @@
 <br>
 
 
-[![Watch the video](https://raw.githubusercontent.com/04x/instagramBrute/master/sc.PNG)]
+![Watch the video](https://raw.githubusercontent.com/04x/instagramBrute/master/sc.PNG)
 <br>
 
 <br>
